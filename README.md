@@ -93,7 +93,7 @@ Se você quiser contribuir com melhorias pro script (como novos hacks ou correç
 
 ## Créditos
 
-- **Autor do Script**: Desenvolvido por [MetaHuman e MetaRobotHacks](https://greasyfork.org/users/662462), com modificações adicionais (como vida infinita) feitas por [Bruno Hoinacki](https://www.linkedin.com/in/brunohoinacki).
+- **Autor do Script**: Desenvolvido por [Bruno Hoinacki](https://www.linkedin.com/in/brunohoinacki).
 - **Inspiração**: Baseado em scripts e tutoriais de comunidades como UnknownCheats e WeAreDevs.
 
 ---
