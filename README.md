@@ -1,5 +1,7 @@
 # Script-Hacking-Venge.io
 
+![Thumbnail do Script-Hacking-Venge.io](https://raw.githubusercontent.com/BrunoHoinacki/Script-Hacking-Venge.io/main/tumb.png)
+
 Este é um script para o jogo **Venge.io**, um FPS online baseado em navegador. O script altera propriedades do jogo, permitindo hacks como **munição infinita**, **vida infinita**, **pulo infinito**, **aimbot**, **ESP** (ver inimigos através de paredes), **teleporte**, **auto-kill** e ajustes de **velocidade** e **escala de tempo**. Ele foi projetado para rodar com o **Tampermonkey**, uma extensão de navegador que executa scripts personalizados.
 
 **⚠️ Aviso Importante**: Usar este script é **contra os termos de serviço do Venge.io** e pode resultar em banimento da sua conta. Use com moderação e por sua conta e risco. Teste em uma conta secundária ou em partidas personalizadas para evitar problemas.
